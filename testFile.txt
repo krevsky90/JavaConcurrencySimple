@@ -1,0 +1,1 @@
+main delta time (with waiting for other threads): 1011
